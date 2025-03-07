@@ -11,7 +11,7 @@
 
 I am Tomoaki Kobayashi.
 
-See <https://moatom.github.io/profile/> about my detail.
+See <https://moatom.github.io> for my detail.
 
 
 <!--
