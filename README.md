@@ -1,17 +1,17 @@
 ## Hi there 👋
-
+<!--
 <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moatom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moatom&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
--->
-</div>
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moatom&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+-->
 
 I am Tomoaki Kobayashi.
 
-See <https://moatom.github.io> for my detail.
+See <https://moatom.github.io/> for my detail.
 
 
 <!--
