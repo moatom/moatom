@@ -1,6 +1,6 @@
 ## Tomoaki Kobayashi
 
-Software Engineer with a strong background in functional programming and programming language theory, dedicated to building high-quality products.
+Software Engineer with a background in functional programming and programming language theory, dedicated to building high-quality software products.
 
 
 ### Papers
