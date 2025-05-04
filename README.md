@@ -1,16 +1,24 @@
 ## Tomoaki Kobayashi
 
-Software Engineer with a background in functional programming and programming language theory, dedicated to building high-quality software products.
-
+Software Engineer with a background in functional programming and programming language theory, dedicated to building high-quality, agile software products.
 
 ### Papers
 - [PEPM24] Complete stream fusion for software-defined radio ([DOI](https://doi.org/10.1145/3635800.3636962))
   - **Distinguished Paper Award**!
 - [OCaml22] Highest-performance stream processing ([DOI](https://doi.org/10.48550/arXiv.2211.13461))
 
+### OSS
+
+#### Major PRs
+- 2025: https://github.com/fluent/fluentd/pull/4865
+- 2019: https://github.com/swiftlang/swift/pull/25070
+
+#### Full PRs
+[View all closed PRs by @moatom](https://github.com/pulls?q=is%3Apr+author%3Amoatom+archived%3Afalse+is%3Aclosed)
+
 ### Links
 - <https://moatom.github.io/>
-- [Linkedin](https://www.linkedin.com/in/友明-小林-5362b8202)
+- [LinkedIn](https://www.linkedin.com/in/友明-小林-5362b8202)
 
 <!--
 <div align="center">
