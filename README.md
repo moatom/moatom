@@ -12,7 +12,7 @@ Software Engineer with a background in functional programming and programming la
 - Major PRs
   - 2025: https://github.com/fluent/fluentd/pull/4865
   - 2019: https://github.com/swiftlang/swift/pull/25070
-- Full PRs
+- All PRs
   - [View all closed PRs by @moatom](https://github.com/pulls?q=is%3Apr+author%3Amoatom+archived%3Afalse+is%3Aclosed)
 
 ### 🔗 Links
