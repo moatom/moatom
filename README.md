@@ -9,6 +9,8 @@ Software Engineer with a background in functional programming and programming la
 
 ### 🛠️ OSS
 
+- Maintainer
+  - strymonas: a fast streaming libarary ([Scala 3](https://github.com/strymonas/strymonas-scala), [OCaml](https://github.com/strymonas/strymonas-ocaml))
 - Major PRs
   - 2025: https://github.com/fluent/fluentd/pull/4865
   - 2019: https://github.com/swiftlang/swift/pull/25070
