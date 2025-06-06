@@ -10,7 +10,7 @@ Software Engineer with a background in functional programming and programming la
 ### 🛠️ OSS
 
 - Maintainer
-  - strymonas: a fast streaming libarary on garbage-collected languages ([Scala 3](https://github.com/strymonas/strymonas-scala), [OCaml](https://github.com/strymonas/strymonas-ocaml))
+  - strymonas: a highest-performance streaming library for rich garbage-collected languages[^1] ([Scala 3](https://github.com/strymonas/strymonas-scala), [OCaml](https://github.com/strymonas/strymonas-ocaml))
 - Major PRs
   - 2025: https://github.com/fluent/fluentd/pull/4865
   - 2019: https://github.com/swiftlang/swift/pull/25070
@@ -21,6 +21,8 @@ Software Engineer with a background in functional programming and programming la
 - <https://moatom.github.io/>
 - [LinkedIn](https://www.linkedin.com/in/友明-小林-5362b8202)
 
+
+[^1]: The point is that they cannot perform escape analysis.
 <!--
 <div align="center">
   
