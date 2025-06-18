@@ -12,8 +12,11 @@ Software Engineer with a background in functional programming and programming la
 - Maintainer
   - strymonas: a highest-performance streaming library for rich garbage-collected languages[^1] ([Scala 3](https://github.com/strymonas/strymonas-scala), [OCaml](https://github.com/strymonas/strymonas-ocaml))
 - Major PRs
-  - 2025: https://github.com/fluent/fluentd/pull/4865
-  - 2019: https://github.com/swiftlang/swift/pull/25070
+  - 2025:
+    - https://github.com/rust-lang/rust/pull/141608 
+    - https://github.com/fluent/fluentd/pull/4865
+  - 2019:
+    - https://github.com/swiftlang/swift/pull/25070
 - All PRs
   - [View all closed PRs by @moatom](https://github.com/pulls?q=is%3Apr+author%3Amoatom+archived%3Afalse+is%3Aclosed)
 
