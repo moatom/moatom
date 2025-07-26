@@ -1,13 +1,5 @@
 ## Tomoaki Kobayashi
 
-Software Engineer with a background in functional programming and programming language theory, dedicated to building high-quality, agile software products.
-
-
-### Papers
-- [PEPM24] Complete stream fusion for software-defined radio ([DOI](https://doi.org/10.1145/3635800.3636962))
-  - **Distinguished Paper Award**
-- [OCaml22] Highest-performance stream processing ([DOI](https://doi.org/10.48550/arXiv.2211.13461))
-
 ### OSS
 
 - Maintainer
@@ -21,14 +13,14 @@ Software Engineer with a background in functional programming and programming la
 - All PRs
   - [View all closed PRs by @moatom](https://github.com/pulls?q=is%3Apr+author%3Amoatom+archived%3Afalse+is%3Aclosed)
 
-### Education
-- Master of Information Sciences, Tohoku University (GPA: 3.8 / 4.0)
-- Bachelor of Engineering, Tohoku University (Major GPA: 3.73 / 4.0)
+### Papers
+- [PEPM24] Complete stream fusion for software-defined radio ([DOI](https://doi.org/10.1145/3635800.3636962))
+  - **Distinguished Paper Award**
+- [OCaml22] Highest-performance stream processing ([DOI](https://doi.org/10.48550/arXiv.2211.13461))
 
 ### Links
 - <https://moatom.github.io/>
 - [LinkedIn](https://www.linkedin.com/in/友明-小林-5362b8202)
-
 
 [^1]: The point is that they cannot perform escape analysis.
 <!--
