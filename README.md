@@ -3,9 +3,10 @@
 ### OSS
 
 - Maintainer
-  - strymonas: a highest-performance streaming library for rich garbage-collected languages[^1] ([Scala 3](https://github.com/strymonas/strymonas-scala), [OCaml](https://github.com/strymonas/strymonas-ocaml))
+  - strymonas: a highest-performance declarative streaming library for rich garbage-collected languages[^1] ([Scala 3](https://github.com/strymonas/strymonas-scala), [OCaml](https://github.com/strymonas/strymonas-ocaml))
 - Major PRs
   - 2025:
+    - https://github.com/rust-lang/rust/pull/140916
     - https://github.com/rust-lang/rust/pull/141608 
     - https://github.com/fluent/fluentd/pull/4865
   - 2019:
