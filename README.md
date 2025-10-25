@@ -23,7 +23,7 @@
 - <https://moatom.github.io/>
 - [LinkedIn](https://www.linkedin.com/in/友明-小林-5362b8202)
 
-[^1]: The point is that they cannot perform escape analysis.
+[^1]: The point is that they cannot perform fusion and escape analysis well.
 <!--
 <div align="center">
   
