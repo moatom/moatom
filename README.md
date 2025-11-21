@@ -13,7 +13,7 @@
   - 2019:
     - https://github.com/swiftlang/swift/pull/25070
 - All PRs
-  - [View all closed PRs by @moatom](https://github.com/pulls?q=is%3Apr+author%3Amoatom+archived%3Afalse+is%3Aclosed)
+  - [View all closed PRs by @moatom](https://github.com/pulls?q=is%3Apr+author%3Amoatom+archived%3Afalse+is%3Aclosed+is%3Apublic)
 
 ### Papers
 - [PEPM24] Complete stream fusion for software-defined radio ([DOI](https://doi.org/10.1145/3635800.3636962))
