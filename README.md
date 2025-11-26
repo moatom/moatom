@@ -6,12 +6,12 @@
   - strymonas: a highest-performance declarative streaming library for rich garbage-collected languages[^1] ([Scala 3](https://github.com/strymonas/strymonas-scala), [OCaml](https://github.com/strymonas/strymonas-ocaml))
 - Major PRs
   - 2025:
-    - https://github.com/microsoft/onnxscript/pull/2645
-    - https://github.com/rust-lang/rust/pull/140916
-    - https://github.com/rust-lang/rust/pull/141608 
-    - https://github.com/fluent/fluentd/pull/4865
+    - https://github.com/microsoft/onnxscript/pull/2645: Implemented `aten.stft` in ONNX Script to avoid decomposition into unfold and FFT
+    - https://github.com/rust-lang/rust/pull/140916: Fixed an unhelpful span in type errors triggered by certain `format_args!()` invocations
+    - https://github.com/rust-lang/rust/pull/141608: Added initial repetition support to `proc_macro::quote`
+    - https://github.com/fluent/fluentd/pull/4865: Proposed and implemented a warning for unauthorized source file directories
   - 2019:
-    - https://github.com/swiftlang/swift/pull/25070
+    - https://github.com/swiftlang/swift/pull/25070: Corrected include guards that were using identifiers reserved by C++
 - All PRs
   - [View all closed PRs by @moatom](https://github.com/pulls?q=is%3Apr+author%3Amoatom+archived%3Afalse+is%3Aclosed+is%3Apublic)
 
