@@ -20,10 +20,6 @@
   - **Distinguished Paper Award**
 - [OCaml22] Highest-performance stream processing ([DOI](https://doi.org/10.48550/arXiv.2211.13461))
 
-### Links
-- <https://moatom.github.io/>
-- [LinkedIn](https://www.linkedin.com/in/友明-小林-5362b8202)
-
 [^1]: The point is that they cannot perform fusion and escape analysis well.
 <!--
 <div align="center">
