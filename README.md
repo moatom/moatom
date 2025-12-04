@@ -6,6 +6,7 @@
   - strymonas: a highest-performance declarative streaming library for rich garbage-collected languages[^1] ([Scala 3](https://github.com/strymonas/strymonas-scala), [OCaml](https://github.com/strymonas/strymonas-ocaml))
 - Major PRs
   - 2025:
+    - [chromium#7134199](https://chromium-review.googlesource.com/c/chromium/src/+/7134199)
     - https://github.com/microsoft/onnxscript/pull/2645: Implemented `aten.stft` in ONNX Script to avoid decomposition into unfold and FFT
     - https://github.com/rust-lang/rust/pull/140916: Fixed an unhelpful span in type errors triggered by certain `format_args!()` invocations
     - https://github.com/rust-lang/rust/pull/141608: Added initial repetition support to `proc_macro::quote`
@@ -13,7 +14,7 @@
   - 2019:
     - https://github.com/swiftlang/swift/pull/25070: Identified and corrected include guards using identifiers reserved by C++
 - All PRs
-  - [View all closed PRs by @moatom](https://github.com/pulls?q=is%3Apr+author%3Amoatom+archived%3Afalse+is%3Aclosed+is%3Apublic)
+  - View all closed PRs by @moatom: [GitHub](https://github.com/pulls?q=is%3Apr+author%3Amoatom+archived%3Afalse+is%3Aclosed+is%3Apublic), [Gerrit](https://chromium-review.googlesource.com/q/is:closed+(-is:wip+OR+owner:self)+(owner:4450307+OR+reviewer:4450307+OR+cc:4450307))
 
 ### Papers
 - [PEPM24] Complete stream fusion for software-defined radio ([DOI](https://doi.org/10.1145/3635800.3636962))
