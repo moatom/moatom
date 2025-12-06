@@ -14,7 +14,7 @@
   - 2019:
     - https://github.com/swiftlang/swift/pull/25070: Identified and corrected include guards using identifiers reserved by C++
 - All PRs
-  - View all closed PRs by @moatom: [GitHub](https://github.com/pulls?q=is%3Apr+author%3Amoatom+archived%3Afalse+is%3Aclosed+is%3Apublic), [Gerrit](https://chromium-review.googlesource.com/q/is:closed+(-is:wip+OR+owner:self)+(owner:4450307+OR+reviewer:4450307+OR+cc:4450307))
+  - View all closed PRs by @moatom: [GitHub](https://github.com/pulls?q=is%3Apr+author%3Amoatom+archived%3Afalse+is%3Aclosed+is%3Apublic), [Gerrit](https://chromium-review.googlesource.com/q/is:closed+(owner:4450307+OR+reviewer:4450307+OR+cc:4450307))
 
 ### Papers
 - [PEPM24] Complete stream fusion for software-defined radio ([DOI](https://doi.org/10.1145/3635800.3636962))
