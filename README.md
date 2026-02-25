@@ -6,7 +6,7 @@
   - strymonas: a highest-performance declarative streaming library for rich garbage-collected languages[^1] ([Scala 3](https://github.com/strymonas/strymonas-scala), [OCaml](https://github.com/strymonas/strymonas-ocaml))
 - Major PRs
   - 2025:
-    - [chromium#7134199](https://chromium-review.googlesource.com/c/chromium/src/+/7134199)
+    - [chromium#7134199](https://chromium-review.googlesource.com/c/chromium/src/+/7134199): Simplified the code by using `std::erase_if()` instead of `.erase(std::remove_if)`
     - https://github.com/microsoft/onnxscript/pull/2645: Implemented `aten.stft` in ONNX Script to avoid decomposition into unfold and FFT
     - https://github.com/rust-lang/rust/pull/140916: Fixed an unhelpful span in type errors triggered by certain `format_args!()` invocations
     - https://github.com/rust-lang/rust/pull/141608: Added initial repetition support to `proc_macro::quote`
