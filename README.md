@@ -1,5 +1,7 @@
 ## Tomoaki Kobayashi
 
+Background in declarative programming, metaprogramming, and compiler optimization.
+
 ### OSS
 
 - Maintainer
